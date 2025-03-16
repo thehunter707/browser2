@@ -1,0 +1,14 @@
+{
+  "name": "examplebrowser",
+  "version": "1.0.0",
+  "description": "Private browser backend using Puppeteer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^19.0.0",
+    "cors": "^2.8.5"
+  }
+}
